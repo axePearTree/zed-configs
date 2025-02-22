@@ -1,0 +1,23 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "vim_mode": true,
+  "use_autoclose": false,
+  "scroll_beyond_last_line": "off",
+  "ui_font_size": 20,
+  "ui_font_family": "JetBrainsMono Nerd Font",
+  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "buffer_font_size": 20,
+  "vertical_scroll_margin": 12,
+  "theme": {
+    "mode": "system",
+    "dark": "Kanagawa",
+    "light": "Kanagawa"
+  }
+}
